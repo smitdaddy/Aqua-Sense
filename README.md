@@ -24,7 +24,6 @@ The system is designed not only to produce predictions, but also to communicate 
 - Out-of-distribution (OOD) monitoring
 - Interactive web dashboard
 - Historical sensor readings and prediction statistics
-- Cloud-based database integration
 
 ---
 
